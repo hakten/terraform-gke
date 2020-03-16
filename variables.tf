@@ -14,10 +14,6 @@ variable "google_project_id" {
   default = "angular-expanse-271218"
 }
 
-variable "google_bucket_name" {
-  default = "t-ggl-backend"
-}
-
 variable "cluster_version" {
   default = "1.13.11-gke.9"
 }
