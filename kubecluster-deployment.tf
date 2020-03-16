@@ -1,5 +1,5 @@
 provider "google" {
-  credentials = "${file("./angular-expanse-271218-8781ddcbab63.json")}"
+  credentials = "${file("~/.google/angular-expanse-271218-8781ddcbab63.json")}"
   project     = "${var.google_project_id}"
 }
 

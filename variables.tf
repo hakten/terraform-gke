@@ -11,7 +11,7 @@ variable "node_count" {
 }
 
 variable "google_project_id" {
-  default = "angular-expanse-271218"
+  default = ""
 }
 
 variable "cluster_version" {
