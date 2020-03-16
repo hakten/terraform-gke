@@ -11,9 +11,9 @@ variable "node_count" {
 }
 
 variable "google_project_id" {
-  default = "angular-expanse-271218"
+  default = "hypnotic-camp-271218"
 }
 
 variable "cluster_version" {
-  default = "1.14.9-gke.23"
+  default = "1.14.10-gke.17"
 }

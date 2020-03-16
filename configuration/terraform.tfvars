@@ -1,6 +1,6 @@
-credentials         = "angular-expanse-271218-8781ddcbab63.json"
+credentials         = "/Users/Huseyin/hypnotic-camp-271218-fab528fdea5d.json"
 
-google_project_id   = "angular-expanse-271218"
+google_project_id   = "hypnotic-camp-271218"
 
 google_bucket_name  = "terraform-cluster"
 
