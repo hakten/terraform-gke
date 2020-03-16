@@ -15,5 +15,5 @@ variable "google_project_id" {
 }
 
 variable "cluster_version" {
-  default = "1.13.11-gke.9"
+  default = "1.13.11-gke.23"
 }
