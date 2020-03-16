@@ -1,4 +1,4 @@
-credentials         = "/root/.google/angular-expanse-271218-8781ddcbab63.json"
+credentials         = "~/.google/angular-expanse-271218-8781ddcbab63.json"
 
 google_project_id   = "angular-expanse-271218"
 
