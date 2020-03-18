@@ -86,3 +86,11 @@ When the ```terraform apply``` command completes, use the ```Google Cloud consol
 To destroy everything please run the following command:
 
 ```terraform destroy -var-file=config.tfvars```  Destroy the changes.
+
+
+### Gcloud Commands
+
+gcloud auth login
+gcloud projects list
+gcloud config set project PROJECT_NAME
+gcloud container clusters get-credentials ${cluster-name} --zone ${zone}
