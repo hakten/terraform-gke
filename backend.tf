@@ -1,7 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket  = "terraform-cluster"
+    bucket  = "terraform-gcp-remote-backend"
     prefix  = "google/kubernetescluster"
-    project = "hypnotic-camp-271218"
   }
 }
