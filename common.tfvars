@@ -1,4 +1,4 @@
-credentials              = "my-project-3-271504-a560ea75e694.json"
+credentials              = "account.json"
 google_project_id        = "my-project-3-271504"
 
 google_bucket_name       = "terraform-backend-huseyin"

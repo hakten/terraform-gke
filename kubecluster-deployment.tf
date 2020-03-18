@@ -1,5 +1,6 @@
 provider "google" {
-  credentials = "my-project-3-271504-a560ea75e694.json"
+  credentials = "account.json"
+  project     = "${var.google_project_id}"
 }
 
 resource "google_container_cluster" "cluster" {
