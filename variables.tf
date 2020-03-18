@@ -1,5 +1,9 @@
-variable "region" {
-  default = "us-central1"
+variable "google_project_id" {
+  default = "hypnotic-camp-271218"
+}
+
+variable "location" {
+  default = "us-central1-a"
 }
 
 variable "cluster_name" {
@@ -8,10 +12,6 @@ variable "cluster_name" {
 
 variable "node_count" {
   default = "3"
-}
-
-variable "google_project_id" {
-  default = "hypnotic-camp-271218"
 }
 
 variable "cluster_version" {
