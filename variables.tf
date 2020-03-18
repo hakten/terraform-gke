@@ -1,5 +1,5 @@
 variable "google_project_id" {
-  default = "hypnotic-camp-271218"
+  default = "my-project-3-271504"
 }
 
 variable "location" {

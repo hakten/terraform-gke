@@ -1,4 +1,5 @@
 provider "google" {
+  credentials = "my-project-3-271504-a560ea75e694.json"
 }
 
 resource "google_container_cluster" "cluster" {

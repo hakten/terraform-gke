@@ -1,5 +1,5 @@
-credentials              = "hypnotic-camp-271218-e7f2b1244c7e.json"
-google_project_id        = "hypnotic-camp-271218"
+credentials              = "my-project-3-271504-a560ea75e694.json"
+google_project_id        = "my-project-3-271504"
 
 google_bucket_name       = "terraform-gcp-remote-backend"
 deployment_environment   = "gcp"
