@@ -1,4 +1,4 @@
-credentials              = "common-service-account.json"
+credentials              = "/root/terraform-gke/common-service-account.json"
 google_project_id        = "my-project-3-271504"
 
 google_bucket_name       = "terraform-backend-huseyin"
