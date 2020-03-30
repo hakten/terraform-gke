@@ -1,9 +1,8 @@
+*cache*
 *tfvars*
 *.state*
 *.tfstate*
 *.terraform*
+backend.tf
 common.tfvars
 common-service-account.json
-*backend.tf*
-*cache*
-set-env
